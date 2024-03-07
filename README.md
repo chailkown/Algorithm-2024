@@ -1,3 +1,3 @@
 # Algorithm-2024
 
-## my name is chailkown
+## my name is chailgwon
