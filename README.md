@@ -1,3 +1,3 @@
 # Algorithm-2024
 
-## colect
+## contents
